@@ -27,5 +27,13 @@
   "bugs": {
     "url": "https://github.com/wInevitable/todo-app-mean/issues"
   },
-  "homepage": "https://github.com/wInevitable/todo-app-mean#readme"
+  "homepage": "https://github.com/wInevitable/todo-app-mean#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0",
+    "socket.io": "^1.7.2"
+  }
 }
