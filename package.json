@@ -1,0 +1,31 @@
+{
+  "name": "todo-app-mean",
+  "version": "1.0.0",
+  "description": "Simple To Do Application using the MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wInevitable/todo-app-mean.git"
+  },
+  "keywords": [
+    "mean",
+    "todo",
+    "angular",
+    "mongodb",
+    "mongo",
+    "express",
+    "node",
+    "js",
+    "javascript",
+    "websockets"
+  ],
+  "author": "William Noll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wInevitable/todo-app-mean/issues"
+  },
+  "homepage": "https://github.com/wInevitable/todo-app-mean#readme"
+}
