@@ -2,7 +2,7 @@
   "name": "todo-app-mean",
   "version": "1.0.0",
   "description": "Simple To Do Application using the MEAN stack",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -31,6 +31,7 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
+    "dotenv": "^2.0.0",
     "ejs": "^2.5.5",
     "express": "^4.14.0",
     "mongojs": "^2.4.0",
